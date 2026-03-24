@@ -1,5 +1,9 @@
 ### Card Game Framework
 
+#### 🧩 Class Diagram
+<img src="CardGame_OOD.png" width="600"/>
+
+
 **Requirements**
 
 Implement two simple card games, and minimize the duplication of code in the program.
