@@ -1,7 +1,7 @@
 ### Card Game Framework
 
 #### 🧩 Class Diagram
-<img src="CardGame_OOD.png" width="600"/>
+<img src="CardGame_OOD.png" width="800"/>
 
 
 **Requirements**
